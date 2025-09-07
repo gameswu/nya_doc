@@ -1,0 +1,6 @@
+* [Introduction](/en-us/README.md)
+* [Features and Functions](/en-us/Function.md)
+* [Privacy](/en-us/Privacy.md)
+* [Plugin](/en-us/Plugin.md)
+* [Personality Story](/en-us/Story.md)
+* [Development Story](/en-us/DevStory.md)
