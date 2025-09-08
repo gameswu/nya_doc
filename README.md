@@ -24,7 +24,7 @@
 
 :heart:[爱发电链接](https://afdian.com/a/gameswu):heart:
 
-:paperclip:联系开发者：
+## 联系开发者
 - :penguin:QQ（五面楚鸽，3903314891）
 - :email:[email](gameswu.thu@gmail.com)
 - :octocat:[github](https://github.com/gameswu)

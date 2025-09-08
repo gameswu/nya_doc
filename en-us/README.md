@@ -26,7 +26,7 @@ Nya will maintain her core services free to use from the beginning to the end! (
 
 :heart:[Support Link](https://afdian.com/a/gameswu):heart:
 
-:paperclip:Contact to the developer:
+## Contact to the Developer:
 - :penguin:QQ（五面楚鸽，3903314891）
 - :email:[email](gameswu.thu@gmail.com)
 - :octocat:[github](https://github.com/gameswu)
