@@ -1,4 +1,4 @@
-# End User License Agreement (EULA)
+# End User License Agreement (EULA) <!-- {docsify-ignore-all} -->
 
 This End User License Agreement (hereinafter referred to as "this Agreement") is a legally binding agreement between you ("User" or "You") and `Nya QQ Bot` (hereinafter referred to as "Nya", "this Bot" or "We") regarding the use of this service.
 

@@ -1,4 +1,4 @@
-# Terms of Service and Privacy Policy
+# Terms of Service and Privacy Policy <!-- {docsify-ignore-all} -->
 
 **Last updated: September 9, 2025**
 
