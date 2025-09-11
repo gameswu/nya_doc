@@ -15,7 +15,7 @@ On April 21, I also established a dedicated group chat (hereinafter referred to 
 Until April 22, the bot was running on my local computer. To maintain the stability of the bot service, I decided to deploy it on a cloud server and rented a half-year server on April 22. After some tinkering, I finally successfully deployed Nya on the cloud server on April 23, and after simple testing, officially opened it for external use. At the same time, based on the improvement of the character setting, I also generated Nya's concept image through multiple AI drawing tools on April 22.
 
 <div align="center">
-  <img src="/assets/DevStory/nya-concept-image.jpg" alt="Nya Concept" width="300"/>
+  <img src="https://gameswu.github.io/nya_doc/assets/DevStory/nya-concept-image.jpg" alt="Nya Concept" width="300"/>
   <p><em>Nya Concept Image (AI-generated)</em></p>
 </div>
 
@@ -44,8 +44,8 @@ After the June crisis, Nya's performance and functionality have stabilized. I gr
 On July 13 and July 22, [Shanhu(珊瑚)](/en-us/README.md#珊瑚) drew two fan art pieces of Nya; on July 14, I created and deployed a Discord version of the Nya bot (*now offline*).
 
 <div align="center">
-  <img src="/assets/DevStory/shanhu-fanart-1.jpg" alt="Nya Fanart 1" width="300"/>
-  <img src="/assets/DevStory/shanhu-fanart-2.jpeg" alt="Nya Fanart 2" width="300"/>
+  <img src="https://gameswu.github.io/nya_doc/assets/DevStory/shanhu-fanart-1.jpg" alt="Nya Fanart 1" width="300"/>
+  <img src="https://gameswu.github.io/nya_doc/assets/DevStory/shanhu-fanart-2.jpeg" alt="Nya Fanart 2" width="300"/>
   <p><em>Nya Fan Art (drawn by Shanhu)</em></p>
 </div>
 
