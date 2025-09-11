@@ -1,3 +1,5 @@
+最后更新于：2025-09-11
+
 # 定价
 
 |  | 小鱼干 | 大鱼干 | 鲸鱼干 |
@@ -10,15 +12,17 @@
 | 长期记忆1层匹配数 | 1 条 | 3 条 | 5 条 |
 | 长期记忆搜索深度 | 1 层 | 2 层 | 2 层 |
 | 知识库容量 | 1000 条 | 7000 条 | 不限 |
-| 大模型聊天 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| 图片理解 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| AI 绘图 | :x: | :white_check_mark: | :white_check_mark: |
-| 管理员功能 | :x: | :white_check_mark: | :white_check_mark: |
-| 满智力模型 | :x: | :white_check_mark: | :white_check_mark: |
-| 重置好感度 | :x: | :white_check_mark: | :white_check_mark: |
-| 移出黑名单 | :x: | :x: | :white_check_mark: |
-| 重置记忆 | :x: | :x: | :white_check_mark: |
-| 维护补偿 | :x: | :x: | :white_check_mark: |
-| 文字游戏包 | :x: | :x: | :white_check_mark: |
+| 大模型聊天 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 图片理解 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 基础功能 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| AI 绘图 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| 管理员功能 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| 群日报 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| 满智力模型 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| 重置好感度 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| 移出黑名单 | :x: | :x: | :heavy_check_mark: |
+| 重置记忆 | :x: | :x: | :heavy_check_mark: |
+| 维护补偿 | :x: | :x: | :heavy_check_mark: |
+| 文字游戏包 | :x: | :x: | :heavy_check_mark: |
 
 关于定价的更多信息，请参阅[常见问题](Question.md)页面和[政策](Policy.md)页面。

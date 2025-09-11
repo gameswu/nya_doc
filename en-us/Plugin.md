@@ -1,3 +1,5 @@
+Last updated: 2025-09-11
+
 # Plugin
 
 > Plugins make your bot experience amazing! Discover endless possibilities and make every chat more fun and engaging\~ Meow! 
@@ -23,6 +25,8 @@ This page contains a brief description and project address of **all third-party,
 | [pokeback_ye](https://github.com/gameswu/pokeback_ye) | 0.1.1 | This is a plugin for providing a response on poke-on for Nya | |
 | [astrbot_plugin_emoji_like](https://github.com/Zhalslar/astrbot_plugin_emoji_like) | 1.0.1 | Call LLM to determine the emotion of the message and intelligently label the message with QQ emoji | Yes |
 | [ai_reminder](https://github.com/kjqwer/astrbot_plugin_sy) | 1.2.9 | Smart timed tasks, which can be thought of as advanced reminders, allow ai to perform specific tasks at specific time | Yes |
+
+TODO: More plugins
 
 ## About the Plugin
 

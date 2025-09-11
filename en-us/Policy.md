@@ -1,6 +1,6 @@
-# Terms of Service and Privacy Policy <!-- {docsify-ignore-all} -->
+Last updated: 2025-09-11
 
-**Last updated: September 9, 2025**
+# Terms of Service and Privacy Policy <!-- {docsify-ignore-all} -->
 
 ---
 

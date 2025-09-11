@@ -1,3 +1,5 @@
+Last updated: 2025-09-11
+
 # Features and Functions
 
 > Friendship is all about understanding each other! Nya will strive to understand your every need, and hopes you can understand Nya's little quirks too. Meow~

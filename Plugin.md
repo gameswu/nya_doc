@@ -1,3 +1,5 @@
+最后更新于：2025-09-11
+
 # 插件
 
 > 喵\~ 插件让机器人更强大！ 探索各种有趣的功能，让聊天体验更加丰富多彩喵\~ ——小夜
@@ -21,6 +23,8 @@
 | [pokeback_ye](https://github.com/gameswu/pokeback_ye) | 0.1.1 | 这是一个用于为小夜提供戳一戳反应的插件 | |
 | [astrbot_plugin_emoji_like](https://github.com/Zhalslar/astrbot_plugin_emoji_like) | 1.0.1 | 调用LLM判断消息的情感，智能地给消息贴上QQ表情 | 是 |
 | [ai_reminder](https://github.com/kjqwer/astrbot_plugin_sy) | 1.2.9 | 智能定时任务，可以看做是高级提醒，可以让ai在特定时间执行特定任务 | 是 |
+
+TODO: 更多插件
 
 ## 关于插件
 
