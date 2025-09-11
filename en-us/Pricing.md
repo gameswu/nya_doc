@@ -1,4 +1,4 @@
-Last updated: 2025-09-11
+Last updated: 2025-09-12
 
 # Pricing
 
@@ -24,5 +24,9 @@ Last updated: 2025-09-11
 | Reset Memory | :x: | :x: | :heavy_check_mark: |
 | Maintenance Compensation | :x: | :x: | :heavy_check_mark: |
 | Text Gaming Package | :x: | :x: | :heavy_check_mark: |
+
+Note:
+- A month refers to a 30-day period starting from the date of subscription. Multiple subscriptions for the same conversation will extend the expiration date to the last subscription's expiration date.
+- If multiple different packages are subscribed to, the benefits of the highest-level package will be used first until it expires, then the benefits of the next highest-level package will be used, and so on.
 
 More details about pricing can be found on the [FAQ](/en-us/Question.md) page and the [Policy](/en-us/Policy.md) page.

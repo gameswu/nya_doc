@@ -1,4 +1,4 @@
-Last updated: 2025-09-11
+Last updated: 2025-09-12
 
 # Features and Functions
 
@@ -131,20 +131,29 @@ Nya supports QQ's rich text format and can send and receive various types of mes
 
 ### Command List
 
-Here is a list of all commands or command groups:
+Here is a list of common commands:
 
-| Command | Brief Description | Reference Link |
-| ------- | ----------------- | -------------- |
-| `/help` | Display system command list | - |
-| `/info` | Output the link to this document | - |
-| `/new` | Start a new session | - |
+| Command | Brief Description |
+| ------- | ----------------- |
+| `/help` | Display system command list |
+| `/info` | Output the link to this document |
+| `/new` | Start a new session |
+| `/导出记忆`  | Export current session memory |
+| `/查看好感` | View current affinity |
+| `/群分析` | Generate group chat analysis report |
+| `/steamrmd` | Add Steam game price monitoring |
+| `/steamrmdlist` | View the list of added Steam game monitors |
+| `/delsteamrmd` | Remove Steam game price monitoring |
+
+Here is a list of common command groups:
+
+| Command Group | Brief Description | Reference Link |
+| ------------- | ----------------- | -------------- |
 | `/kb` | Knowledge base management command set | https://github.com/lxfight/astrbot_plugin_knowledge_base |
 | `/osu` | Osu! related command set | https://github.com/gameswu/astrbot_plugin_osutrack |
 | `/rmd` | Reminder related command set | https://github.com/kjqwer/astrbot_plugin_sy |
 | `/issue` | Issue feedback related command set | https://github.com/gameswu/issue_report_ye |
 | `/lottery` | Lottery related command set | https://github.com/gameswu/astrbot_plugin_lottery |
-| `/导出记忆`  | Export current session memory | - |
-| `/查看好感` | View current affinity | - |
 
 You can find more plugins provided by the developer or third parties on the [Plugin](/en-us/Plugin.md) page and check their usage methods. Next, we will introduce some commonly used commands.
 
@@ -196,6 +205,26 @@ This command is used to provide feedback or suggestions to the developer. The `t
 > /issue check
 
 This command is used to check the status of all feedback submitted by the user.
+
+### /群分析
+
+> /群分析 <font color="Orange">\<days\></font>
+
+This command is used to generate a group chat analysis report. The `days` parameter is used to specify the time range for the analysis, in days.
+
+### /steamrmd, /steamrmdlist, /delsteamrmd
+
+> /steamrmd <font color="Orange">\<Steam app ID\></font>
+
+This command is used to add a Steam game price monitoring. The `Steam app ID` parameter is used to specify the Steam ID of the game to be monitored.
+
+> /steamrmdlist
+
+This command is used to view the list of added Steam game monitors.
+
+> /delsteamrmd <font color="Orange">\<Steam app ID\></font>
+
+This command is used to remove a Steam game price monitoring. The `Steam app ID` parameter is used to specify the Steam ID of the game to be removed.
 
 ## Natural Language
 

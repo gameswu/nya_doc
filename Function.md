@@ -1,4 +1,4 @@
-最后更新于：2025-09-11
+最后更新于：2025-09-12
 
 # 特性与功能
 
@@ -130,22 +130,31 @@ sequenceDiagram
 
 ### 指令列表
 
-此处列出了所有指令或指令组：
+此处列出了常用指令：
 
-| 指令 | 简要说明 | 参考链接 |
-| ---- | -------- | -------- |
-| `/help` | 显示系统指令列表 | - |
-| `/info` | 输出该文档链接 | - |
-| `/new` | 新建会话 | - |
+| 指令 | 简要说明 |
+| ---- | -------- |
+| `/help` | 显示系统指令列表 |
+| `/info` | 输出该文档链接 |
+| `/new` | 新建会话 |
+| `/导出记忆`  | 导出当前会话的记忆 |
+| `/查看好感` | 查看当前好感度 |
+| `/群分析` | 生成群聊分析报告 |
+| `/steamrmd` | 添加 Steam 游戏价格监控 |
+| `/steamrmdlist` | 查看已添加的 Steam 游戏监控列表 |
+| `/delsteamrmd` | 移除 Steam 游戏价格监控 |
+
+此处列出了常用指令组：
+
+| 指令组 | 简要说明 | 参考链接 |
+| ------------- | ----------------- | -------------- |
 | `/kb` | 知识库管理指令集 | https://github.com/lxfight/astrbot_plugin_knowledge_base |
 | `/osu` | Osu!相关指令集 | https://github.com/gameswu/astrbot_plugin_osutrack |
 | `/rmd` | 提醒事项相关指令集 | https://github.com/kjqwer/astrbot_plugin_sy |
 | `/issue` | 问题反馈相关指令集 | https://github.com/gameswu/issue_report_ye |
 | `/lottery` | 抽奖相关指令集 | https://github.com/gameswu/astrbot_plugin_lottery |
-| `/导出记忆`  | 导出当前会话的记忆 | - |
-| `/查看好感` | 查看当前好感度 | - |
 
-在[插件](Plugin.md)页面中可以看到更多由开发者或第三方提供的插件并查阅其使用方法。接下来我们将介绍一些常用的指令。
+在[插件](Plugin.md)页面中可以看到更多由开发者或第三方提供的插件并查阅其使用方法。接下来我们将介绍一些常用指令的用法。
 
 ### /help
 
@@ -195,6 +204,26 @@ sequenceDiagram
 > /issue check
 
 该指令用于检查所有该用户反馈的状态。
+
+### /群分析
+
+> /群分析 <font color="Orange">\<天数\></font>
+
+该指令用于生成群聊分析报告。参数`天数`用于指定分析的时间范围，单位为天。
+
+### /steamrmd, /steamrmdlist, /delsteamrmd
+
+> /steamrmd <font color="Orange">\<游戏ID\> </font>
+
+该指令用于添加一个 Steam 游戏价格监控。参数`游戏ID`用于指定要监控的游戏的 Steam ID。
+
+> /steamrmdlist
+
+该指令用于查看已添加的 Steam 游戏监控列表。
+
+> /delsteamrmd <font color="Orange">\<游戏ID\> </font>
+
+该指令用于移除一个 Steam 游戏价格监控。参数`游戏ID`用于指定要移除的游戏的 Steam ID。
 
 ## 自然语言
 

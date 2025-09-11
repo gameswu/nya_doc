@@ -1,4 +1,4 @@
-Last updated: 2025-09-11
+Last updated: 2025-09-12
 
 # Introduction
 
@@ -8,7 +8,7 @@ Last updated: 2025-09-11
 
 ## Who Is Nya
 
-Nya QQ Bot is a llm chating bot based on [AstrBot](https://astrbot.app/), which originally developed as a toy project for developer to explore large language applications as well as role-play anthropomorphization. The developer first publicly deployed it within group chats on April 15, 2025, and as of 11:00 PM on September 7, 2025, Nya has existed in 87 group chats and has even more 300+ friends. :books: [Here](/en-us/DevStory.md) for more behind-the-scenes stories of development.
+Nya QQ Bot is a llm chating bot based on [AstrBot](https://astrbot.app/), which originally developed as a toy project for developer to explore large language applications as well as role-play anthropomorphization. The developer first publicly deployed it within group chats on April 17, 2025, and as of 11:00 PM on September 7, 2025, Nya has existed in 87 group chats and has even more 300+ friends. :books: [Here](/en-us/DevStory.md) for more behind-the-scenes stories of development.
 
 :eyes:Hope to see the effect? :point_right:Add QQ <font color="Blue">#3642039497</font>
 
@@ -32,3 +32,33 @@ Nya will maintain her core services free to use from the beginning to the end! (
 - :penguin:QQ（五面楚鸽，3903314891）
 - :email:[email](gameswu.thu@gmail.com)
 - :octocat:[github](https://github.com/gameswu)
+
+## Contributors
+
+<!-- tabs:start -->
+
+#### **珊瑚**
+
+Provided valuable suggestions and material support for Nya's clothing and other image designs. Some paintings can be found in [Development Story](/en-us/DevStory.md).
+
+> A sentence to max out my favorability with Nya —— 珊瑚
+
+#### **神域**
+
+Improved Nya's character story, which can be viewed [here](/en-us/Story.md).
+
+> You write in the self-introduction how you usually treat me :yum: —— 神域
+
+#### **SuddeИ**
+
+Provided valuable assistance with external communication.
+
+> What do you think I should write —— SuddeИ
+
+#### **廷阳**
+
+Provided management support and numerous functional suggestions.
+
+> Ntg —— 廷阳
+
+<!-- tabs:end -->
