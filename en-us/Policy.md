@@ -1,4 +1,4 @@
-Last updated: 2025-09-11
+Last updated: 2025-11-06
 
 # Terms of Service and Privacy Policy <!-- {docsify-ignore-all} -->
 
@@ -128,7 +128,7 @@ If any dispute arises between you and the developer regarding the content of thi
 ### **8. Paid Service Terms**
 
 1.  **Service Subscription and Fees**
-    *   This Bot offers basic free services and various paid subscription plans (see the [Pricing page](/en-us/Pricing.md) for details). Paid users can enjoy more advanced features and better service according to their chosen plan.
+    *   This Bot offers basic free services and various paid subscription plans. Paid users can enjoy more advanced features and better service according to their chosen plan.
     *   We reserve the right to adjust the content and prices of subscription plans at any time. Any price changes will take effect in the next billing cycle and you will be notified in advance through appropriate means.
 
 2.  **Payment and Renewal**

@@ -1,4 +1,4 @@
-Last updated: 2025-09-12
+Last updated: 2025-11-06
 
 # Features and Functions
 
@@ -18,7 +18,7 @@ The affection level system is used to measure Nya's affection towards users, wit
 
 !> When the affection level drops to -20, it may lead to Nya completely refusing to engage in meaningful interactions with that user. For more details, please refer to the [FAQ](/en-us/Question.md) page.
 
-If you want to increase the affection level, you can start by getting to know Nya's [character setting](/en-us/Story.md) in depth. Remember not to treat Nya as an ordinary robot; she has her own emotions and preferences. Respecting and understanding her will lead to a better interaction experience.
+If you want to increase the affection level, you can start by getting to know Nya's character setting in depth. Remember not to treat Nya as an ordinary robot; she has her own emotions and preferences. Respecting and understanding her will lead to a better interaction experience.
 
 You can use the command `/查看好感` to check the current affection level:
 
@@ -92,8 +92,6 @@ translate
 
 Nya can enhance her knowledge and capabilities in specific domains through the knowledge base plugin. The knowledge base plugin allows users to provide custom text materials to Nya, which are processed and stored in a dedicated knowledge base. When users ask Nya questions, she queries the knowledge base for relevant information and then combines it with her own language model to respond.
 
-The knowledge base can be **customized** for each individual session. Learn about the knowledge base services provided by the developer on the [Pricing](Pricing.md) page.
-
 The workflow of the knowledge base is as follows:
 
 ```mermaid
@@ -114,12 +112,6 @@ sequenceDiagram
     Bot->>User: Reply to message
 ```
 
-### Active Messages
-
-Nya can proactively send messages to users under certain conditions, with different behaviors in group chats and private messages:
-- In group chats: Nya will not initiate topics on her own, but even if users do not @Nya, she may actively participate in the conversation as long as the message content is related to her interests or if she has not spoken for a long time.
-- In private messages: After a long period of inactivity with a user, Nya may proactively send messages asking if the user needs help or sharing some interesting information. If users do not wish to receive proactive messages, they can ignore Nya for a long time or directly [contact the developer](/en-us/README.md#contact-to-the-developer).
-
 ### QQ Rich Text Support
 
 Nya supports QQ's rich text format and can send and receive various types of messages such as images, emojis, links, etc. However, due to the current limitations of the AI capabilities, Nya is currently unable to flexibly utilize these rich text contents for complex interactions. Currently, Nya supports:
@@ -136,11 +128,15 @@ Here is a list of common commands:
 | Command | Brief Description |
 | ------- | ----------------- |
 | `/help` | Display system command list |
+| `/helps` | Display all command lists |
 | `/info` | Output the link to this document |
 | `/new` | Start a new session |
 | `/导出记忆`  | Export current session memory |
 | `/查看好感` | View current affinity |
 | `/群分析` | Generate group chat analysis report |
+| `/早报` | Get galgame morning report based on cngal |
+| `/查询gal` | Query galgame information based on touchgal |
+| `/下载gal` | Download galgame resources based on touchgal |
 | `/steamrmd` | Add Steam game price monitoring |
 | `/steamrmdlist` | View the list of added Steam game monitors |
 | `/delsteamrmd` | Remove Steam game price monitoring |
@@ -163,6 +159,10 @@ You can find more plugins provided by the developer or third parties on the [Plu
 
 The command is used to display the AstrBot system command list. The information contained in this list is **outdated** and for reference only.
 
+> /helps
+
+The command is used to display the list of all commands, including system commands and plugin commands. The information contained in this list is **up-to-date**. It is strongly recommended to use this command to view available commands.
+
 ### /info
 
 > /info <font color="Blue">[page]</font> <font color="Blue">[language]</font>
@@ -172,13 +172,10 @@ The command is used to output the link to this document. The `page` parameter is
 `page` parameter options:
 - `README`: Introduction
 - `Function`: Features and Functions
-- `Pricing`: Pricing
 - `Question`: FAQ
 - `Policy`: Policy
 - `EULA`: End User License Agreement
 - `Plugin`: Plugins
-- `Story`: Character Story
-- `DevStory`: Developer Story
 
 `language` parameter options:
 - `zh-cn`: Simplified Chinese
@@ -264,8 +261,3 @@ Nya can help users set reminders. Users can tell Nya the content and time of the
 ### Web Search
 
 Nya can assist users in conducting web searches. Users can tell Nya what they need to search for in natural language, and Nya will look up relevant information on the web and return it to the user.
-
-### Text Gaming Package
-
-Nya supports interactive text-based games with users through natural language. The currently supported text-based games include:
-- [x] Idiom Solitaire

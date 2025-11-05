@@ -1,4 +1,4 @@
-Last updated: 2025-09-12
+Last updated: 2025-11-06
 
 # Introduction
 
@@ -28,7 +28,10 @@ Nya will maintain her core services free to use from the beginning to the end! (
 
 :heart:[Support Link](https://afdian.com/a/gameswu):heart:
 
-## Contact to the Developer:
+## About the Developer:
+Developer is currently studying at the Interdisciplinary Information Institute of Tsinghua University (commonly known as "Yao Class") and is a sophomore student. Due to busy academic schedule, the developer is neglecting the maintenance of the bot, please forgive me. I am currently preparing my first academic paper and hope to successfully submit it to CVPR 2026.
+
+You can contact me through the following ways:
 - :penguin:QQ（五面楚鸽，3903314891）
 - :email:[email](gameswu.thu@gmail.com)
 - :octocat:[github](https://github.com/gameswu)
@@ -39,13 +42,13 @@ Nya will maintain her core services free to use from the beginning to the end! (
 
 #### **珊瑚**
 
-Provided valuable suggestions and material support for Nya's clothing and other image designs. Some paintings can be found in [Development Story](/en-us/DevStory.md).
+Provided valuable suggestions and material support for Nya's clothing and other image designs.
 
 > A sentence to max out my favorability with Nya —— 珊瑚
 
 #### **神域**
 
-Improved Nya's character story, which can be viewed [here](/en-us/Story.md).
+Improved Nya's character story.
 
 > You write in the self-introduction how you usually treat me :yum: —— 神域
 
