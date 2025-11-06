@@ -8,7 +8,7 @@ Last updated: 2025-11-06
 
 ## Who Is Nya
 
-Nya QQ Bot is a llm chating bot based on [AstrBot](https://astrbot.app/), which originally developed as a toy project for developer to explore large language applications as well as role-play anthropomorphization. The developer first publicly deployed it within group chats on April 17, 2025, and as of 11:00 PM on September 7, 2025, Nya has existed in 87 group chats and has even more 300+ friends. :books: [Here](/en-us/DevStory.md) for more behind-the-scenes stories of development.
+Nya QQ Bot is a llm chating bot based on [AstrBot](https://astrbot.app/), which originally developed as a toy project for developer to explore large language applications as well as role-play anthropomorphization. The developer first publicly deployed it within group chats on April 17, 2025, and as of now, Nya already exists in 100+ group chats and has hundreds of friends.
 
 :eyes:Hope to see the effect? :point_right:Add QQ <font color="Blue">#3642039497</font>
 
