@@ -165,21 +165,17 @@ The command is used to display the list of all commands, including system comman
 
 ### /info
 
-> /info <font color="Blue">[page]</font> <font color="Blue">[language]</font>
+> /info <font color="Blue">[page]</font>
 
-The command is used to output the link to this document. The `page` parameter is used to specify the page to be output, and the `language` parameter is used to specify the language version to be output. The default values are `README` and `zh-cn`, respectively.
+The command is used to output the link to this document. The `page` parameter is used to specify the page to be output. The default value is `README`.
 
 `page` parameter options:
 - `README`: Introduction
-- `Function`: Features and Functions
-- `Question`: FAQ
-- `Policy`: Policy
+- `function`: Features and Functions
+- `FAQ`: FAQ
+- `policy`: Policy
 - `EULA`: End User License Agreement
-- `Plugin`: Plugins
-
-`language` parameter options:
-- `zh-cn`: Simplified Chinese
-- `en-us`: English
+- `plugin`: Plugins
 
 ### /new
 
@@ -251,8 +247,6 @@ sequenceDiagram
 ### AI Drawing
 
 Nya supports generating images through natural language descriptions. Users can send descriptive text, and the system will generate corresponding images based on the text content. It is worth noting that the descriptive text sent to Nya will be processed according to her understanding, allowing her to handle vague drawing requests, such as "draw a self-portrait" or "draw me as you see me," and still provide a basic and unified result.
-
-In the [Developer Story](DevStory.md), interesting results from AI drawing can be seen during testing and use due to the aforementioned characteristics.
 
 ### Reminders
 

@@ -36,6 +36,9 @@ This page lists **all open source plugins** used by Nya QQ Bot.
 | https://github.com/gameswu/memory_ye |
 | https://github.com/gameswu/pokeback_ye |
 | https://github.com/SXP-Simon/astrbot-qq-group-daily-analysis |
+| https://github.com/gameswu/WhoIsMyMaster_ye |
+| https://github.com/Zhalslar/astrbot_plugin_wakepro |
+| https://github.com/gameswu/InfoDoc_ye.git |
 
 ## About the Plugin
 
